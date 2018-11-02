@@ -1,5 +1,9 @@
 # `backpack-react-scripts` Change Log
 
+## 6.0.1 - 2018-02-11
+### Breaking
+- Add css modules to `.css` imports. This is only valid for projects using css modules
+
 ## 5.2.1 - 2018-09-10
 ### Fixed
 - Remove peer dependency warnings
